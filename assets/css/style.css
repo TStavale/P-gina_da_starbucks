@@ -44,4 +44,9 @@ button {
 
 .button-menu {
     width: 60px;
+    transition: 1s; /*Para suavizar o efeito de subir do copo, adcionamos um tempo na transição */
+}
+
+.button-menu:hover {
+    transform: translateY(-25px); /* Para criar o efeito do copo subir quando passar o curso sobre ele. Usa o transforme com o translate no eixo Y.*/
 }
