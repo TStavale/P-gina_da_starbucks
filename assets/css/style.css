@@ -5,8 +5,16 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    padding-top: 20px;
+}
+
 .logo {
     width: 80px;
+}
+
+.starbucks {
+    width: 500px;
 }
 
 h2 {
@@ -19,4 +27,21 @@ span {
     color: #017143;
     font-size: 70px;
     font-weight: 900;
+}
+
+p {
+    font-size: 16px;
+}
+
+button {
+    background: #017143;
+    color: #ffff;
+    border-radius: 40px;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.button-menu {
+    width: 60px;
 }
