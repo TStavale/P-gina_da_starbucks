@@ -40,7 +40,7 @@ body {
     width: 600px;
     display: flex;
     justify-content: flex-end;
-    margin-top: 200px;
+    margin-top: 250px;
 }
 
 .logo {
@@ -48,7 +48,7 @@ body {
 }
 
 .starbucks {
-    width: 340px;
+    width: 300px;
 }
 
 h2 {
